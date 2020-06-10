@@ -17,7 +17,19 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="pendaftaran.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4575">
+      <rect
+         style="fill:#f9f9f9;fill-opacity:0.32463768;stroke:#ff0000;stroke-width:0.29951447"
+         id="rect4577"
+         width="259.0463"
+         height="180.19548"
+         x="-19.439228"
+         y="-70.611656" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54974122"
-     inkscape:cx="158.19798"
-     inkscape:cy="603.95653"
+     inkscape:zoom="0.25837294"
+     inkscape:cx="845.43227"
+     inkscape:cy="1599.1912"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,24 +82,31 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.4356842px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4108921"
-       x="-7.9941516"
-       y="56.508457"
+       x="-267.88916"
+       y="113.30033"
        id="text35"><tspan
          sodipodi:role="line"
          id="tspan33"
-         x="-7.9941516"
-         y="56.508457"
+         x="-267.88916"
+         y="113.30033"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:0.4108921">MADRASAH BAITUL IZZAH</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.10601425px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20265035"
-       x="-26.271423"
-       y="71.341095"
+       x="-286.16644"
+       y="128.13297"
        id="text39"><tspan
          sodipodi:role="line"
          id="tspan37"
-         x="-26.271423"
-         y="71.341095"
+         x="-286.16644"
+         y="128.13297"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI Symbol';-inkscape-font-specification:'Segoe UI Symbol';stroke-width:0.20265035">Membuka Pendaftaran Santri Tahfidz Alquran</tspan></text>
+    <ellipse
+       style="fill:#f9f9f9;fill-opacity:0.32463768;stroke:#ff0000;stroke-width:0.6151197"
+       id="path52"
+       cx="454.832"
+       cy="-298.6474"
+       rx="271.85809"
+       ry="243.10277" />
   </g>
 </svg>
